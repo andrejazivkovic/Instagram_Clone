@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParseExample</string>
+    <string name="back4app_server_url">http://3.82.26.40/parse/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">myappID</string>
+    <string name="back4app_client_key">ZfAl1w4X7EQM</string>
+
+</resources>
